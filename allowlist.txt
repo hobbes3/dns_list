@@ -1,0 +1,8 @@
+! Title: hobbes3 - Allowlist
+! Expires: 1 day
+! Issue tracker: https://github.com/hobbes3/dns_list
+! Homepage: https://github.com/hobbes3/dns_list
+! Description: Blocklist and Whitelist for hobbes3.
+! Version: 20240129
+
+||sso-arubainstanton.trafficmanager.net^
